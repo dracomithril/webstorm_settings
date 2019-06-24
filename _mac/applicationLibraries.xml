@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/prop-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
